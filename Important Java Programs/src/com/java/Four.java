@@ -1,3 +1,4 @@
+//swap number withot using third variable
 package com.java;
 
 public class Four {

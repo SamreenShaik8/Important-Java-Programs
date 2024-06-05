@@ -1,3 +1,4 @@
+// Prime number
 package com.java;
 
 public class Program7 {

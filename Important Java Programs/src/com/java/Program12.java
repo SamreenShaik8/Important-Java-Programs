@@ -1,3 +1,4 @@
+// to calculate lcm of 2 integers
 package com.java;
 
 public class Program12 {

@@ -1,3 +1,4 @@
+// to find number of even odd digit in given number
 package com.java;
 
 public class Five {
